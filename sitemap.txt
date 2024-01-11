@@ -1,3 +1,2 @@
-http://example.com/2024/01/11/test-my-site/
-http://example.com/2024/01/11/hello-world/
+http://example.com/2024/01/11/Personal-Profile/
 http://example.com/
