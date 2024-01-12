@@ -6,7 +6,7 @@
   <link href="https://henryaudiolab.github.io/atom.xml" rel="self"/>
   
   <link href="https://henryaudiolab.github.io/"/>
-  <updated>2024-01-12T03:52:40.825Z</updated>
+  <updated>2024-01-12T08:11:49.531Z</updated>
   <id>https://henryaudiolab.github.io/</id>
   
   <author>
@@ -17,19 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Light Spot</title>
-    <link href="https://henryaudiolab.github.io/2024/01/12/Light%20Spot/"/>
-    <id>https://henryaudiolab.github.io/2024/01/12/Light%20Spot/</id>
-    <published>2024-01-12T03:27:30.378Z</published>
-    <updated>2024-01-12T03:52:40.825Z</updated>
+    <title>ToB Project Works</title>
+    <link href="https://henryaudiolab.github.io/2024/01/12/ToB%20Project%20Works/"/>
+    <id>https://henryaudiolab.github.io/2024/01/12/ToB%20Project%20Works/</id>
+    <published>2024-01-12T08:09:26.361Z</published>
+    <updated>2024-01-12T08:11:49.531Z</updated>
     
-    <content type="html"><![CDATA[<p>hello!</p>]]></content>
+    <content type="html"><![CDATA[<h6 id="新倩女幽魂电脑版"><a href="#新倩女幽魂电脑版" class="headerlink" title="新倩女幽魂电脑版"></a>新倩女幽魂电脑版</h6><div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">  <iframe src="//player.bilibili.com/player.html?aid=453375632&bvid=BV1z5411q7kk&cid=1398688205&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"   style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div> <h6 id="永劫无间"><a href="#永劫无间" class="headerlink" title="永劫无间"></a>永劫无间</h6><div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">  <iframe src="https://www.youtube.com/embed/-SWaWKODZyY?si=z698ZE5IGy-u1j_E" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"   style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div> ]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;hello!&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h6 id=&quot;新倩女幽魂电脑版&quot;&gt;&lt;a href=&quot;#新倩女幽魂电脑版&quot; class=&quot;headerlink&quot; title=&quot;新倩女幽魂电脑版&quot;&gt;&lt;/a&gt;新倩女幽魂电脑版&lt;/h6&gt;
+&lt;div style=&quot;position: relative; width: 100%; hei</summary>
       
     
     
@@ -38,13 +38,34 @@
   </entry>
   
   <entry>
-    <title>Project Works</title>
-    <link href="https://henryaudiolab.github.io/2024/01/11/Project%20Works/"/>
-    <id>https://henryaudiolab.github.io/2024/01/11/Project%20Works/</id>
-    <published>2024-01-11T09:36:51.765Z</published>
-    <updated>2024-01-12T08:06:43.504Z</updated>
+    <title>Puredata &amp; Wwise</title>
+    <link href="https://henryaudiolab.github.io/2024/01/12/Puredata%20Wwise/"/>
+    <id>https://henryaudiolab.github.io/2024/01/12/Puredata%20Wwise/</id>
+    <published>2024-01-12T03:27:30.378Z</published>
+    <updated>2024-01-12T08:11:47.338Z</updated>
     
-    <content type="html"><![CDATA[<h6 id="G92-Project-Works"><a href="#G92-Project-Works" class="headerlink" title="G92 Project Works"></a>G92 Project Works</h6><div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">  <iframe src="https://www.youtube.com/embed/betppJKOoO0?si=nZe7jOBtO_yPriQ6" " scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"   style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div> <h4 id="ToB-Project-Works"><a href="#ToB-Project-Works" class="headerlink" title="ToB Project Works"></a>ToB Project Works</h4><h6 id="新倩女幽魂电脑版"><a href="#新倩女幽魂电脑版" class="headerlink" title="新倩女幽魂电脑版"></a>新倩女幽魂电脑版</h6><div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">  <iframe src="//player.bilibili.com/player.html?aid=453375632&bvid=BV1z5411q7kk&cid=1398688205&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"   style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div> <h6 id="永劫无间"><a href="#永劫无间" class="headerlink" title="永劫无间"></a>永劫无间</h6><div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">  <iframe src="https://www.youtube.com/embed/-SWaWKODZyY?si=z698ZE5IGy-u1j_E" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"   style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div> ]]></content>
+    <content type="html"><![CDATA[<h6 id="Voice-Changer"><a href="#Voice-Changer" class="headerlink" title="Voice Changer"></a>Voice Changer</h6><div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">  <iframe src="//player.bilibili.com/player.html?aid=364453224&bvid=BV1Z94y1b7U2&cid=1294606861&p=1" " scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"   style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div> ]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h6 id=&quot;Voice-Changer&quot;&gt;&lt;a href=&quot;#Voice-Changer&quot; class=&quot;headerlink&quot; title=&quot;Voice Changer&quot;&gt;&lt;/a&gt;Voice Changer&lt;/h6&gt;
+&lt;div style=&quot;position: relati</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>G92 Project Works</title>
+    <link href="https://henryaudiolab.github.io/2024/01/11/G92%20Project%20Works/"/>
+    <id>https://henryaudiolab.github.io/2024/01/11/G92%20Project%20Works/</id>
+    <published>2024-01-11T09:36:51.765Z</published>
+    <updated>2024-01-12T08:10:15.463Z</updated>
+    
+    <content type="html"><![CDATA[<h6 id="G92-Project-Works"><a href="#G92-Project-Works" class="headerlink" title="G92 Project Works"></a>G92 Project Works</h6><div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">  <iframe src="https://www.youtube.com/embed/betppJKOoO0?si=nZe7jOBtO_yPriQ6" " scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"   style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div> ]]></content>
     
     
       
