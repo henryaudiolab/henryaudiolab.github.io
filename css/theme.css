@@ -72,6 +72,12 @@ video {
   margin: 1rem auto;
 }
 
+iframe[type="application/pdf"] {
+  width: 100%;
+  height: auto;
+  margin: 1rem auto;
+}
+
 /*table {
   padding: 0;
 }*/
